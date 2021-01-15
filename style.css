@@ -1,0 +1,53 @@
+.bodyinci .blockPage{ font-family: Arial, Helvetica, sans-serif;}
+.bodyinci{ font-family: Arial;}
+.bodyinci .tableinci h1{ font-size: 60px; font-weight: normal; margin: 0px;}
+.bodyinci .tableinci-list tr:nth-child(even) {background-color: #dce5f1;}
+.bodyinci .tableinci-list tr:nth-child(odd) td.bggray {background-color:#eeece1;}
+.bodyinci .tableinci-list { color: #011732; border: 1px solid #dce5f1; }
+.bodyinci .tableinci-list tr{ height: 40px;}
+.bodyinci .tableinci-list tr th{ text-align: left;}
+.bodyinci .fitwidth{ width: 1px;
+    white-space: nowrap;}
+    .bodyinci .tableinci-list td.one-perc{ width:1%;}
+
+
+.bodyinci .typeOfIncidents{ font-size: 1.2em; margin-top: 20px;}
+
+
+.bodyinci .opened, .bodyinci  .opened .bggray{
+
+    background-color: tomato !important;
+    cursor: default !important;
+
+}
+
+.bodyinci  .play_victim_video, .bodyinci  .play_guilty_video {
+  
+    display: inline-flex;
+}
+
+.bodyinci  select{    width: 100%;
+    height: 50px;
+    font-size: 25px;}
+
+
+.bodyinci .play_victim_video img, .bodyinci .play_guilty_video img{
+    width:100%;
+    height:100%;
+}
+
+.bodyinci .juez_images{padding: 10px;}
+
+.bodyinci .span_victim_name, .bodyinci  .span_guilty_name { font-size: 50px;}
+.bodyinci .incident_penalties_remarks, .bodyinci .incident_penalties_remarks input{ font-size: 1em; height: 35px; width: max-content;}
+.bodyinci .details-grid{ vertical-align: top;}
+.bodyinci .width-45perc{ width:45%}
+.bodyinci .width-10perc{width:10%}
+.bodyinci .verticalalign-top{ vertical-align: top;}
+.bodyinci .tddisplayinline td{ display: inline;}
+
+/*
+.incident_penalties_remarks label{ width: 30%;}
+.incident_penalties_remarks input{ width: 70%; height: 40px;}
+*/
+/*.ui-autocomplete { background-color: white; cursor: pointer; padding-top: 10px; border: 1px solid black;}*/   
